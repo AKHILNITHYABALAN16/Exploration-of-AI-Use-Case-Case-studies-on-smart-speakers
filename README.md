@@ -4,3 +4,5 @@ To study the application of Artificial Intelligence in smart speakers and unders
 # THEORY
 
 # WORKING PRINCIPLE 
+
+# RESULT
